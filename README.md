@@ -43,7 +43,7 @@ The table is named `player_settings`.
 | Column | Stored Value |
 | --- | --- |
 | `steam_id` | SteamID64, stored as a `TEXT` primary key to preserve its full precision. |
-| `spray_name` | The `Id` defined in JSON, such as `test` or `charlotte_heart`. `NULL` means random selection. |
+| `spray_name` | The `Id` defined in JSON, such as `Spray1` or `LambdaLogo`. `NULL` means random selection. |
 | `spray_volume` | An integer volume percentage from 0 to 100. The default is 100. |
 
 A row for the player's SteamID is created and saved when they change a preference.

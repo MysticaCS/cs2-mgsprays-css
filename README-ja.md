@@ -45,7 +45,7 @@ addons/counterstrikesharp/plugins/MgSprays/data/mgsprays.db
 | 列 | 保存内容 |
 | --- | --- |
 | `steam_id` | SteamID64。精度を保つため、`TEXT`型の主キーとして保存します。 |
-| `spray_name` | `test`や`charlotte_heart`など、JSONで定義した`Id`。ランダム設定の場合は`NULL`です。 |
+| `spray_name` | `Spray1`や`LambdaLogo`など、JSONで定義した`Id`。ランダム設定の場合は`NULL`です。 |
 | `spray_volume` | 音量を表す0～100の整数。初期値は100です。 |
 
 個人設定を変更した際に、そのSteamIDの行を作成・保存します。
