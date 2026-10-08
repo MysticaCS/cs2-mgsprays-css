@@ -1,0 +1,18 @@
+{
+  "sprays.usage": "!spray <id> で選択。!spray または css_spray で使用。!sprays none でランダム。",
+  "sprays.random": "ランダムスプレーに変更しました。",
+  "sprays.unknown": "未登録の画像です。",
+  "sprays.selected": "スプレーを {0} に変更しました。",
+  "sprays.save_failed": "スプレーの選択を保存できませんでした。設定は変更していません。",
+  "sprays.used": "スプレーを使用しました。",
+  "sprays.enabled": "スプレーを有効にしました。",
+  "sprays.disabled": "スプレーを無効にし、すべて削除しました。",
+  "sprays.cvar_usage": "使用方法: {0} <{1}>。設定は変更していません。",
+  "sprays.cvar_set": "{0} を {1} に変更しました。",
+  "sprays.cooldown": "スプレークールダウン中 {0}秒",
+  "sprays.volume_current": "現在のスプレー音量: \u0004{0}\u0001%. !sprayvol <0-100> で変更できます。",
+  "sprays.volume_usage": "使用方法: !sprayvol <0-100>（0でスプレー音をミュート）。",
+  "sprays.volume_set": "スプレー音量を \u0004{0}\u0001% に変更し、保存しました。",
+  "sprays.volume_save_failed": "音量を保存できませんでした。設定は変更していません。",
+  "sprays.empty": "登録されているスプレーがありません。"
+}

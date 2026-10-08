@@ -1,0 +1,18 @@
+{
+  "sprays.usage": "Select with !spray <id>. Use !spray or css_spray to spray. !sprays none selects random sprays.",
+  "sprays.random": "Switched to random sprays.",
+  "sprays.unknown": "Unknown spray.",
+  "sprays.selected": "Changed your spray to {0}.",
+  "sprays.save_failed": "Could not save your spray selection. Your setting was not changed.",
+  "sprays.used": "You used a spray.",
+  "sprays.enabled": "Sprays enabled.",
+  "sprays.disabled": "Sprays disabled and all existing sprays removed.",
+  "sprays.cvar_usage": "Usage: {0} <{1}>. Value was not changed.",
+  "sprays.cvar_set": "{0} set to {1}.",
+  "sprays.cooldown": "Spray cooldown: {0} seconds remaining.",
+  "sprays.volume_current": "Current spray sound volume: \u0004{0}\u0001%. Use !sprayvol <0-100> to change it.",
+  "sprays.volume_usage": "Usage: !sprayvol <0-100> (0 mutes spray sounds).",
+  "sprays.volume_set": "Spray sound volume saved: \u0004{0}\u0001%.",
+  "sprays.volume_save_failed": "Could not save your volume. Your setting was not changed.",
+  "sprays.empty": "No sprays are registered."
+}

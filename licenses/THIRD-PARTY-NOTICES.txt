@@ -1,0 +1,16 @@
+Bundled dependency notices
+
+Microsoft.Data.Sqlite.Core 10.0.12
+Copyright Microsoft Corporation. Licensed under MIT.
+Source: https://github.com/dotnet/efcore
+See Microsoft.Data.Sqlite-MIT.txt.
+
+SQLitePCLRaw core / batteries / provider 2.1.12
+Copyright 2014-2024 SourceGear, LLC. Licensed under Apache-2.0.
+Source: https://github.com/ericsink/SQLitePCL.raw
+See SQLitePCLRaw-Apache-2.0.txt.
+
+Native SQLite (e_sqlite3.dll, bundled by SQLitePCLRaw.lib.e_sqlite3 2.1.12)
+SQLite is in the public domain: https://sqlite.org/copyright.html
+
+These notices cover the bundled dependencies, not the MG Sprays source.

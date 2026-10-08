@@ -1,0 +1,703 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+    "LP.MGSpray.Paint.Volume001" =
+    {
+        type = "csgo_mega"
+        volume = 0.01
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume002" =
+    {
+        type = "csgo_mega"
+        volume = 0.02
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume003" =
+    {
+        type = "csgo_mega"
+        volume = 0.03
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume004" =
+    {
+        type = "csgo_mega"
+        volume = 0.04
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume005" =
+    {
+        type = "csgo_mega"
+        volume = 0.05
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume006" =
+    {
+        type = "csgo_mega"
+        volume = 0.06
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume007" =
+    {
+        type = "csgo_mega"
+        volume = 0.07
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume008" =
+    {
+        type = "csgo_mega"
+        volume = 0.08
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume009" =
+    {
+        type = "csgo_mega"
+        volume = 0.09
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume010" =
+    {
+        type = "csgo_mega"
+        volume = 0.10
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume011" =
+    {
+        type = "csgo_mega"
+        volume = 0.11
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume012" =
+    {
+        type = "csgo_mega"
+        volume = 0.12
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume013" =
+    {
+        type = "csgo_mega"
+        volume = 0.13
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume014" =
+    {
+        type = "csgo_mega"
+        volume = 0.14
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume015" =
+    {
+        type = "csgo_mega"
+        volume = 0.15
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume016" =
+    {
+        type = "csgo_mega"
+        volume = 0.16
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume017" =
+    {
+        type = "csgo_mega"
+        volume = 0.17
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume018" =
+    {
+        type = "csgo_mega"
+        volume = 0.18
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume019" =
+    {
+        type = "csgo_mega"
+        volume = 0.19
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume020" =
+    {
+        type = "csgo_mega"
+        volume = 0.20
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume021" =
+    {
+        type = "csgo_mega"
+        volume = 0.21
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume022" =
+    {
+        type = "csgo_mega"
+        volume = 0.22
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume023" =
+    {
+        type = "csgo_mega"
+        volume = 0.23
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume024" =
+    {
+        type = "csgo_mega"
+        volume = 0.24
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume025" =
+    {
+        type = "csgo_mega"
+        volume = 0.25
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume026" =
+    {
+        type = "csgo_mega"
+        volume = 0.26
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume027" =
+    {
+        type = "csgo_mega"
+        volume = 0.27
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume028" =
+    {
+        type = "csgo_mega"
+        volume = 0.28
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume029" =
+    {
+        type = "csgo_mega"
+        volume = 0.29
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume030" =
+    {
+        type = "csgo_mega"
+        volume = 0.30
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume031" =
+    {
+        type = "csgo_mega"
+        volume = 0.31
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume032" =
+    {
+        type = "csgo_mega"
+        volume = 0.32
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume033" =
+    {
+        type = "csgo_mega"
+        volume = 0.33
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume034" =
+    {
+        type = "csgo_mega"
+        volume = 0.34
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume035" =
+    {
+        type = "csgo_mega"
+        volume = 0.35
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume036" =
+    {
+        type = "csgo_mega"
+        volume = 0.36
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume037" =
+    {
+        type = "csgo_mega"
+        volume = 0.37
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume038" =
+    {
+        type = "csgo_mega"
+        volume = 0.38
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume039" =
+    {
+        type = "csgo_mega"
+        volume = 0.39
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume040" =
+    {
+        type = "csgo_mega"
+        volume = 0.40
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume041" =
+    {
+        type = "csgo_mega"
+        volume = 0.41
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume042" =
+    {
+        type = "csgo_mega"
+        volume = 0.42
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume043" =
+    {
+        type = "csgo_mega"
+        volume = 0.43
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume044" =
+    {
+        type = "csgo_mega"
+        volume = 0.44
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume045" =
+    {
+        type = "csgo_mega"
+        volume = 0.45
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume046" =
+    {
+        type = "csgo_mega"
+        volume = 0.46
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume047" =
+    {
+        type = "csgo_mega"
+        volume = 0.47
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume048" =
+    {
+        type = "csgo_mega"
+        volume = 0.48
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume049" =
+    {
+        type = "csgo_mega"
+        volume = 0.49
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume050" =
+    {
+        type = "csgo_mega"
+        volume = 0.50
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume051" =
+    {
+        type = "csgo_mega"
+        volume = 0.51
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume052" =
+    {
+        type = "csgo_mega"
+        volume = 0.52
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume053" =
+    {
+        type = "csgo_mega"
+        volume = 0.53
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume054" =
+    {
+        type = "csgo_mega"
+        volume = 0.54
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume055" =
+    {
+        type = "csgo_mega"
+        volume = 0.55
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume056" =
+    {
+        type = "csgo_mega"
+        volume = 0.56
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume057" =
+    {
+        type = "csgo_mega"
+        volume = 0.57
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume058" =
+    {
+        type = "csgo_mega"
+        volume = 0.58
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume059" =
+    {
+        type = "csgo_mega"
+        volume = 0.59
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume060" =
+    {
+        type = "csgo_mega"
+        volume = 0.60
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume061" =
+    {
+        type = "csgo_mega"
+        volume = 0.61
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume062" =
+    {
+        type = "csgo_mega"
+        volume = 0.62
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume063" =
+    {
+        type = "csgo_mega"
+        volume = 0.63
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume064" =
+    {
+        type = "csgo_mega"
+        volume = 0.64
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume065" =
+    {
+        type = "csgo_mega"
+        volume = 0.65
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume066" =
+    {
+        type = "csgo_mega"
+        volume = 0.66
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume067" =
+    {
+        type = "csgo_mega"
+        volume = 0.67
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume068" =
+    {
+        type = "csgo_mega"
+        volume = 0.68
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume069" =
+    {
+        type = "csgo_mega"
+        volume = 0.69
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume070" =
+    {
+        type = "csgo_mega"
+        volume = 0.70
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume071" =
+    {
+        type = "csgo_mega"
+        volume = 0.71
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume072" =
+    {
+        type = "csgo_mega"
+        volume = 0.72
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume073" =
+    {
+        type = "csgo_mega"
+        volume = 0.73
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume074" =
+    {
+        type = "csgo_mega"
+        volume = 0.74
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume075" =
+    {
+        type = "csgo_mega"
+        volume = 0.75
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume076" =
+    {
+        type = "csgo_mega"
+        volume = 0.76
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume077" =
+    {
+        type = "csgo_mega"
+        volume = 0.77
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume078" =
+    {
+        type = "csgo_mega"
+        volume = 0.78
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume079" =
+    {
+        type = "csgo_mega"
+        volume = 0.79
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume080" =
+    {
+        type = "csgo_mega"
+        volume = 0.80
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume081" =
+    {
+        type = "csgo_mega"
+        volume = 0.81
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume082" =
+    {
+        type = "csgo_mega"
+        volume = 0.82
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume083" =
+    {
+        type = "csgo_mega"
+        volume = 0.83
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume084" =
+    {
+        type = "csgo_mega"
+        volume = 0.84
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume085" =
+    {
+        type = "csgo_mega"
+        volume = 0.85
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume086" =
+    {
+        type = "csgo_mega"
+        volume = 0.86
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume087" =
+    {
+        type = "csgo_mega"
+        volume = 0.87
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume088" =
+    {
+        type = "csgo_mega"
+        volume = 0.88
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume089" =
+    {
+        type = "csgo_mega"
+        volume = 0.89
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume090" =
+    {
+        type = "csgo_mega"
+        volume = 0.90
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume091" =
+    {
+        type = "csgo_mega"
+        volume = 0.91
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume092" =
+    {
+        type = "csgo_mega"
+        volume = 0.92
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume093" =
+    {
+        type = "csgo_mega"
+        volume = 0.93
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume094" =
+    {
+        type = "csgo_mega"
+        volume = 0.94
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume095" =
+    {
+        type = "csgo_mega"
+        volume = 0.95
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume096" =
+    {
+        type = "csgo_mega"
+        volume = 0.96
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume097" =
+    {
+        type = "csgo_mega"
+        volume = 0.97
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume098" =
+    {
+        type = "csgo_mega"
+        volume = 0.98
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint.Volume099" =
+    {
+        type = "csgo_mega"
+        volume = 0.99
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+    "LP.MGSpray.Paint" =
+    {
+        type = "csgo_mega"
+        volume = 1.00
+        pitch = 1.0
+        vsnd_files_track_01 = "sounds/mgsprays/sprayer.vsnd"
+    }
+}

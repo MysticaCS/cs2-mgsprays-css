@@ -1,0 +1,14 @@
+{
+  "ConfigVersion": 1,
+  "SpraySoundEvent": "",
+  "SpraySoundResource": "",
+  "Sprays": [
+    {
+      "Id": "sample",
+      "Name": "Sample",
+      "Material": "materials/mgsprays/sample.vmat",
+      "Width": 48,
+      "Height": 48
+    }
+  ]
+}
